@@ -8,7 +8,7 @@ Este es un proyecto de una aplicación móvil de temporizador Pomodoro desarroll
 - **Interfaz simple y clara**: Temporizador en el centro con un anillo de progreso que indica el tiempo restante.
 - **Botones de control**: Comenzar, pausar y resetear el temporizador.
 - **Temas de color**: Los colores cambian según el modo seleccionado.
-
+- **Sonido de Inicio/fin de time**
 - **Funcionalidad de reinicio**: Permite restablecer el temporizador.
 
 ## Tecnologías utilizadas
