@@ -18,10 +18,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/tecnica-pomodoro.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.arielzarate.Pomodoro"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ff14bf99-2ef2-4022-bcf2-f640ccadb558"
+      }
     }
   }
 }
